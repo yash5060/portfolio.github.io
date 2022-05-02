@@ -1,0 +1,70 @@
+{
+    "basic_info": {
+      "name": "Yash",
+      "titles": [ "Front-end Developer", "Competitive Programmer", "Data Structure" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/yash5060",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Leetcode",
+          "url": "https://www.linkedin.com/in/yash-bhardwaj-a96347200/",
+          "class": "fab fa-linkedin"
+          
+        }
+      ]
+    },
+    "images": [
+      "images/portfolio/adventure/p1.png"
+    ],
+    
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "75"
+        },
+        
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Yash. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React . What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+      
+    }
+  },
+  "projects": [
+    {
+      "title": "Shopping Website",
+      "startDate": "2022",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles .",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://leetcode.com/problemset/all/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Java Script"
+        }
+      ]
+    },
+    {
+      "title": "Aadhar Card Updation ",
+      "startDate": "2022",
+      "description": "Coming soon:)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://leetcode.com/problemset/all/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Resume Downloader",
+      "startDate": "2022",
+      "description": "Coming Soon :)",
+      "images": [
+        "images/portfolio/adventure/p1.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://leetcode.com/problemset/all/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "title": "Team member in DSA club at Chandigarh University",
+      "years": "",
+      "mainTech": [
+        
+      ],
+      "technologies": [
+       
+      ]
+    },
+    {
+      "company": "",
+      "title": "Speaker in Competitive Meet",
+      "years": "",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        
+      ]
+    }
+  ]
+}
